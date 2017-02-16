@@ -1,0 +1,8 @@
+# Ignore ENV
+.env
+
+# Ignore Prod folder
+prod
+
+# Ignore node_modules
+node_modules
